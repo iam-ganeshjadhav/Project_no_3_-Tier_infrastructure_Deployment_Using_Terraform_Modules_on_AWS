@@ -165,7 +165,7 @@ Terraform provides the following outputs:
 | VPC Configuration | Custom VPC with CIDR block 10.0.0.0/16 created | ![VPC](IMG/2.png)|
 | Internet Gateway | Internet Gateway attached to VPC for internet access | ![IGW](IMG/3.png) |
 | EC2 Instances | Web and Application EC2 instances running | ![EC2](IMG/4.png) |
-| Web Server Output | Nginx web page accessed using EC2 public IP | ![Web]((IMG/5.png)) |
+| Web Server Output | Nginx web page accessed using EC2 public IP | ![Web](IMG/5.png) |
 | RDS Database | Amazon RDS MySQL database instance created | ![RDS](IMG/6.png) |
 | GitHub Repository | Terraform project code stored in GitHub | ![GitHub](IMG/7.png) |
 
